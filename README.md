@@ -1,2 +1,2 @@
 # startico
-zombiseal.github.io/startico/
+https://zombiseal.github.io/startico/
